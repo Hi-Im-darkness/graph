@@ -1,11 +1,11 @@
 # graph
-*** graph ** is a simple project written in Python 3.
+**graph** is a simple project written in Python 3.
 It used to draw mathematical graphs.
 
 ## USAGE
-
+```
 $ graph
-
+```
 Use `--help` to get more detail information.
 
 ## INSTALLATION
